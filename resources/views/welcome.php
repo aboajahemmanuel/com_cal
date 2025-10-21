@@ -531,7 +531,7 @@
 
 			<br><br>
 			<div class="glossary">
-				<a href="Glossary.php" style="font-size:15px;"><i class="fa fa-book"></i> GLOSSARY</a>
+				<a href="Glossary.php" style="font-size:15px;"><i class="fa fa-book"></i> GLOSSARY123</a>
 			</div><br><br>
 
 			<div class="flex-box">
