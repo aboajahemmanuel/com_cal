@@ -52,9 +52,9 @@
     |
     */
 
-        'url' => env('APP_URL', 'https://adgtest.fmdqgroup.com/com_cal/'),
+        'url' => env('APP_URL', 'http://localhost/com_cal/'),
 
-        'asset_url' => env('ASSET_URL',  'https://adgtest.fmdqgroup.com/com_cal/public'),
+        'asset_url' => env('ASSET_URL',  'http://localhost/com_cal/public'),
 
         /*
     |--------------------------------------------------------------------------
