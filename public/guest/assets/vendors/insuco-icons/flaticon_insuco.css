@@ -1,0 +1,119 @@
+@font-face {
+    font-family: "flaticon_insuco";
+    src: url("flaticon_insuco132c.ttf?a85bd15f56aa1a4d75e236f4416dd83f") format("truetype"),
+url("flaticon_insuco132c.woff?a85bd15f56aa1a4d75e236f4416dd83f") format("woff"),
+url("flaticon_insuco132c.woff2?a85bd15f56aa1a4d75e236f4416dd83f") format("woff2"),
+url("flaticon_insuco132c.eot?a85bd15f56aa1a4d75e236f4416dd83f#iefix") format("embedded-opentype"),
+url("flaticon_insuco132c.svg?a85bd15f56aa1a4d75e236f4416dd83f#flaticon_insuco") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_insuco !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-agile:before {
+    content: "\f101";
+}
+.flaticon-agreement:before {
+    content: "\f102";
+}
+.flaticon-car-insurance:before {
+    content: "\f103";
+}
+.flaticon-commercial:before {
+    content: "\f104";
+}
+.flaticon-community:before {
+    content: "\f105";
+}
+.flaticon-health-care:before {
+    content: "\f106";
+}
+.flaticon-health-insurance:before {
+    content: "\f107";
+}
+.flaticon-healthcare:before {
+    content: "\f108";
+}
+.flaticon-house:before {
+    content: "\f109";
+}
+.flaticon-insurance-1:before {
+    content: "\f10a";
+}
+.flaticon-insurance-3:before {
+    content: "\f10b";
+}
+.flaticon-insurance-4:before {
+    content: "\f10c";
+}
+.flaticon-insurance:before {
+    content: "\f10d";
+}
+.flaticon-management:before {
+    content: "\f10e";
+}
+.flaticon-medical-insurance:before {
+    content: "\f10f";
+}
+.flaticon-money-bag:before {
+    content: "\f110";
+}
+.flaticon-money-transfer:before {
+    content: "\f111";
+}
+.flaticon-paper-plane:before {
+    content: "\f112";
+}
+.flaticon-piggy-bank:before {
+    content: "\f113";
+}
+.flaticon-portfolio:before {
+    content: "\f114";
+}
+.flaticon-quote-1:before {
+    content: "\f115";
+}
+.flaticon-quote:before {
+    content: "\f116";
+}
+.flaticon-rating:before {
+    content: "\f117";
+}
+.flaticon-reliability:before {
+    content: "\f118";
+}
+.flaticon-star:before {
+    content: "\f119";
+}
+.flaticon-study:before {
+    content: "\f11a";
+}
+.flaticon-success:before {
+    content: "\f11b";
+}
+.flaticon-target:before {
+    content: "\f11c";
+}
+.flaticon-tick:before {
+    content: "\f11d";
+}
+.flaticon-travel-insurance-1:before {
+    content: "\f11e";
+}
+.flaticon-travel-insurance:before {
+    content: "\f11f";
+}
+.flaticon-trust:before {
+    content: "\f120";
+}
+.flaticon-workgroup:before {
+    content: "\f121";
+}
