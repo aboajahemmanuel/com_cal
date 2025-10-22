@@ -2,7 +2,7 @@
 
 @section('content')
     <section class="event-bg">
-        <h1 style="color: white">Corporate Action Calendar for <br>FMDQ Private Markets Limited
+        <h1 style="color: white">Corporate Options
         </h1>
     </section>
     <section>
