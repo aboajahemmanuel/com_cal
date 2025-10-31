@@ -2,7 +2,7 @@
 
 @section('content')
     <section class="event-bg">
-        <h1 style="color: white"> content
+        <h1 style="color: white"> yyyyyyyyyyyyyyyy
         </h1>
     </section>
     <section>
