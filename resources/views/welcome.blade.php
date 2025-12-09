@@ -2,7 +2,7 @@
 
 @section('content')
     <section class="event-bg">
-        <h1 style="color: white">Test llllllllllllllllllllllllllllllllll
+        <h1 style="color: white">Corporate Action Calendar
         </h1>
     </section>
     <section>
